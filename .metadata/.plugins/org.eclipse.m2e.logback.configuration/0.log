@@ -5382,3 +5382,281 @@ org.eclipse.debug.core.DebugException: Launch configuration spring-boot-web-jsp 
 2018-10-25 15:47:01,389 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2018-10-25 15:47:01,391 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2018-10-25 15:47:01,391 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/juan/eclipse-workspace/spring-boot-thymeleaf/src/test/resources
+2018-10-25 19:32:10,811 [Worker-7: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-10-25 19:43:08,997 [Worker-16: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bolsadeideas.springboot.datajpa.app:spring-boot-data-jpa:0.0.1-SNAPSHOT @ /home/juan/eclipse-workspace/spring-boot-data-jpa/pom.xml.
+2018-10-25 19:43:12,655 [Worker-16: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-jpa/2.0.6.RELEASE/spring-boot-starter-data-jpa-2.0.6.RELEASE.pom
+2018-10-25 19:43:12,722 [Worker-16: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-jpa/2.0.6.RELEASE/spring-boot-starter-data-jpa-2.0.6.RELEASE.pom
+2018-10-25 19:43:12,932 [Worker-16: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-aop/2.0.6.RELEASE/spring-boot-starter-aop-2.0.6.RELEASE.pom
+2018-10-25 19:43:12,977 [Worker-16: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-aop/2.0.6.RELEASE/spring-boot-starter-aop-2.0.6.RELEASE.pom
+2018-10-25 19:43:13,042 [Worker-16: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-jdbc/2.0.6.RELEASE/spring-boot-starter-jdbc-2.0.6.RELEASE.pom
+2018-10-25 19:43:13,087 [Worker-16: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-jdbc/2.0.6.RELEASE/spring-boot-starter-jdbc-2.0.6.RELEASE.pom
+2018-10-25 19:43:13,145 [Worker-16: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/5.0.10.RELEASE/spring-jdbc-5.0.10.RELEASE.pom
+2018-10-25 19:43:13,189 [Worker-16: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/5.0.10.RELEASE/spring-jdbc-5.0.10.RELEASE.pom
+2018-10-25 19:43:13,241 [Worker-16: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-tx/5.0.10.RELEASE/spring-tx-5.0.10.RELEASE.pom
+2018-10-25 19:43:13,285 [Worker-16: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-tx/5.0.10.RELEASE/spring-tx-5.0.10.RELEASE.pom
+2018-10-25 19:43:13,362 [Worker-16: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-jpa/2.0.11.RELEASE/spring-data-jpa-2.0.11.RELEASE.pom
+2018-10-25 19:43:13,406 [Worker-16: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-jpa/2.0.11.RELEASE/spring-data-jpa-2.0.11.RELEASE.pom
+2018-10-25 19:43:13,454 [Worker-16: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/build/spring-data-parent/2.0.11.RELEASE/spring-data-parent-2.0.11.RELEASE.pom
+2018-10-25 19:43:13,546 [Worker-16: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/build/spring-data-parent/2.0.11.RELEASE/spring-data-parent-2.0.11.RELEASE.pom
+2018-10-25 19:43:14,000 [Worker-16: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-commons/2.0.11.RELEASE/spring-data-commons-2.0.11.RELEASE.pom
+2018-10-25 19:43:14,549 [Worker-16: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-commons/2.0.11.RELEASE/spring-data-commons-2.0.11.RELEASE.pom
+2018-10-25 19:43:14,641 [Worker-16: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-orm/5.0.10.RELEASE/spring-orm-5.0.10.RELEASE.pom
+2018-10-25 19:43:14,686 [Worker-16: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-orm/5.0.10.RELEASE/spring-orm-5.0.10.RELEASE.pom
+2018-10-25 19:43:14,737 [Worker-16: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aspects/5.0.10.RELEASE/spring-aspects-5.0.10.RELEASE.pom
+2018-10-25 19:43:14,783 [Worker-16: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aspects/5.0.10.RELEASE/spring-aspects-5.0.10.RELEASE.pom
+2018-10-25 19:43:14,964 [Worker-16: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.1.47/mysql-connector-java-5.1.47.pom
+2018-10-25 19:43:15,009 [Worker-16: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.1.47/mysql-connector-java-5.1.47.pom
+2018-10-25 19:43:15,120 [Worker-16: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-jpa/2.0.6.RELEASE/spring-boot-starter-data-jpa-2.0.6.RELEASE.jar
+2018-10-25 19:43:15,166 [Worker-16: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-jpa/2.0.6.RELEASE/spring-boot-starter-data-jpa-2.0.6.RELEASE.jar
+2018-10-25 19:43:15,210 [Worker-16: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-aop/2.0.6.RELEASE/spring-boot-starter-aop-2.0.6.RELEASE.jar
+2018-10-25 19:43:15,254 [Worker-16: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-aop/2.0.6.RELEASE/spring-boot-starter-aop-2.0.6.RELEASE.jar
+2018-10-25 19:43:15,297 [Worker-16: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-jdbc/2.0.6.RELEASE/spring-boot-starter-jdbc-2.0.6.RELEASE.jar
+2018-10-25 19:43:15,351 [Worker-16: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-jdbc/2.0.6.RELEASE/spring-boot-starter-jdbc-2.0.6.RELEASE.jar
+2018-10-25 19:43:15,399 [Worker-16: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/5.0.10.RELEASE/spring-jdbc-5.0.10.RELEASE.jar
+2018-10-25 19:43:16,229 [Worker-16: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/5.0.10.RELEASE/spring-jdbc-5.0.10.RELEASE.jar
+2018-10-25 19:43:16,276 [Worker-16: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-jpa/2.0.11.RELEASE/spring-data-jpa-2.0.11.RELEASE.jar
+2018-10-25 19:43:16,467 [Worker-16: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-jpa/2.0.11.RELEASE/spring-data-jpa-2.0.11.RELEASE.jar
+2018-10-25 19:43:16,515 [Worker-16: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-commons/2.0.11.RELEASE/spring-data-commons-2.0.11.RELEASE.jar
+2018-10-25 19:43:17,051 [Worker-16: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-commons/2.0.11.RELEASE/spring-data-commons-2.0.11.RELEASE.jar
+2018-10-25 19:43:17,097 [Worker-16: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-orm/5.0.10.RELEASE/spring-orm-5.0.10.RELEASE.jar
+2018-10-25 19:43:17,627 [Worker-16: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-orm/5.0.10.RELEASE/spring-orm-5.0.10.RELEASE.jar
+2018-10-25 19:43:17,674 [Worker-16: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-tx/5.0.10.RELEASE/spring-tx-5.0.10.RELEASE.jar
+2018-10-25 19:43:17,796 [Worker-16: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-tx/5.0.10.RELEASE/spring-tx-5.0.10.RELEASE.jar
+2018-10-25 19:43:18,364 [Worker-16: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aspects/5.0.10.RELEASE/spring-aspects-5.0.10.RELEASE.jar
+2018-10-25 19:43:18,430 [Worker-16: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aspects/5.0.10.RELEASE/spring-aspects-5.0.10.RELEASE.jar
+2018-10-25 19:43:18,489 [Worker-16: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.1.47/mysql-connector-java-5.1.47.jar
+2018-10-25 19:43:20,281 [Worker-16: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.1.47/mysql-connector-java-5.1.47.jar
+2018-10-25 19:43:22,962 [Worker-16: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-boot-data-jpa/src/main/java
+2018-10-25 19:43:22,963 [Worker-16: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-boot-data-jpa/src/main/resources
+2018-10-25 19:43:22,970 [Worker-16: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-boot-data-jpa/src/main/resources
+2018-10-25 19:43:22,979 [Worker-16: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-boot-data-jpa/src/test/java
+2018-10-25 19:43:23,664 [Worker-16: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 16 sec
+2018-10-25 19:43:23,667 [Worker-16: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-10-25 19:43:24,228 [Worker-16: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bolsadeideas.springboot.datajpa.app:spring-boot-data-jpa:0.0.1-SNAPSHOT @ /home/juan/eclipse-workspace/spring-boot-data-jpa/pom.xml.
+2018-10-25 19:43:24,632 [Worker-18: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-jpa/2.0.6.RELEASE/spring-boot-starter-data-jpa-2.0.6.RELEASE-sources.jar
+2018-10-25 19:43:24,713 [Worker-18: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-jpa/2.0.6.RELEASE/spring-boot-starter-data-jpa-2.0.6.RELEASE-sources.jar
+2018-10-25 19:43:24,836 [Worker-18: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-data-jpa:2.0.6.RELEASE
+2018-10-25 19:43:25,269 [Worker-18: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-aop/2.0.6.RELEASE/spring-boot-starter-aop-2.0.6.RELEASE-sources.jar
+2018-10-25 19:43:25,334 [Worker-18: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-aop/2.0.6.RELEASE/spring-boot-starter-aop-2.0.6.RELEASE-sources.jar
+2018-10-25 19:43:25,474 [Worker-16: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-boot-data-jpa/src/main/java
+2018-10-25 19:43:25,474 [Worker-16: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-boot-data-jpa/src/main/resources
+2018-10-25 19:43:25,478 [Worker-16: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-boot-data-jpa/src/main/resources
+2018-10-25 19:43:25,488 [Worker-16: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-boot-data-jpa/src/test/java
+2018-10-25 19:43:25,541 [Worker-18: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-aop:2.0.6.RELEASE
+2018-10-25 19:43:25,590 [Worker-18: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-jdbc/2.0.6.RELEASE/spring-boot-starter-jdbc-2.0.6.RELEASE-sources.jar
+2018-10-25 19:43:25,635 [Worker-18: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-jdbc/2.0.6.RELEASE/spring-boot-starter-jdbc-2.0.6.RELEASE-sources.jar
+2018-10-25 19:43:25,786 [Worker-18: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-jdbc:2.0.6.RELEASE
+2018-10-25 19:43:25,832 [Worker-18: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/5.0.10.RELEASE/spring-jdbc-5.0.10.RELEASE-sources.jar
+2018-10-25 19:43:26,011 [Worker-16: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2018-10-25 19:43:26,112 [Worker-18: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/5.0.10.RELEASE/spring-jdbc-5.0.10.RELEASE-sources.jar
+2018-10-25 19:43:26,317 [Worker-18: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-jdbc:5.0.10.RELEASE
+2018-10-25 19:43:26,364 [Worker-18: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-jpa/2.0.11.RELEASE/spring-data-jpa-2.0.11.RELEASE-sources.jar
+2018-10-25 19:43:26,480 [Worker-18: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-jpa/2.0.11.RELEASE/spring-data-jpa-2.0.11.RELEASE-sources.jar
+2018-10-25 19:43:26,794 [Worker-18: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.data:spring-data-jpa:2.0.11.RELEASE
+2018-10-25 19:43:26,843 [Worker-18: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-commons/2.0.11.RELEASE/spring-data-commons-2.0.11.RELEASE-sources.jar
+2018-10-25 19:43:27,074 [Worker-18: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-commons/2.0.11.RELEASE/spring-data-commons-2.0.11.RELEASE-sources.jar
+2018-10-25 19:43:27,238 [Worker-18: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.data:spring-data-commons:2.0.11.RELEASE
+2018-10-25 19:43:27,522 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-25 19:43:27,527 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-25 19:43:27,542 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-25 19:43:27,546 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-25 19:43:27,546 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/juan/eclipse-workspace/spring-boot-data-jpa/src/test/resources
+2018-10-25 19:43:27,611 [Worker-18: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-orm/5.0.10.RELEASE/spring-orm-5.0.10.RELEASE-sources.jar
+2018-10-25 19:43:28,094 [Worker-18: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-orm/5.0.10.RELEASE/spring-orm-5.0.10.RELEASE-sources.jar
+2018-10-25 19:43:28,218 [Worker-18: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-orm:5.0.10.RELEASE
+2018-10-25 19:43:28,920 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-25 19:43:28,921 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-25 19:43:28,922 [Worker-18: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-tx/5.0.10.RELEASE/spring-tx-5.0.10.RELEASE-sources.jar
+2018-10-25 19:43:28,922 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-25 19:43:28,924 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-25 19:43:28,924 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/juan/eclipse-workspace/spring-boot-data-jpa/src/test/resources
+2018-10-25 19:43:30,412 [Worker-18: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-tx/5.0.10.RELEASE/spring-tx-5.0.10.RELEASE-sources.jar
+2018-10-25 19:43:30,542 [Worker-18: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-tx:5.0.10.RELEASE
+2018-10-25 19:43:30,595 [Worker-18: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aspects/5.0.10.RELEASE/spring-aspects-5.0.10.RELEASE-sources.jar
+2018-10-25 19:43:30,978 [Worker-18: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aspects/5.0.10.RELEASE/spring-aspects-5.0.10.RELEASE-sources.jar
+2018-10-25 19:43:31,132 [Worker-18: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-aspects:5.0.10.RELEASE
+2018-10-25 19:43:31,205 [Worker-18: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.1.47/mysql-connector-java-5.1.47-sources.jar
+2018-10-25 19:43:32,010 [Worker-18: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.1.47/mysql-connector-java-5.1.47-sources.jar
+2018-10-25 19:43:32,145 [Worker-18: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for mysql:mysql-connector-java:5.1.47
+2018-10-25 19:43:32,549 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-25 19:43:32,550 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-25 19:43:32,550 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-25 19:43:32,553 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-25 19:43:32,553 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/juan/eclipse-workspace/spring-boot-data-jpa/src/test/resources
+2018-10-25 19:43:33,395 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-data-jpa:2.0.6.RELEASE
+2018-10-25 19:43:33,397 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-aop:2.0.6.RELEASE
+2018-10-25 19:43:33,398 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-jdbc:2.0.6.RELEASE
+2018-10-25 19:43:33,400 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-jdbc:5.0.10.RELEASE
+2018-10-25 19:43:33,402 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.data:spring-data-jpa:2.0.11.RELEASE
+2018-10-25 19:43:33,403 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.data:spring-data-commons:2.0.11.RELEASE
+2018-10-25 19:43:33,404 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-orm:5.0.10.RELEASE
+2018-10-25 19:43:33,405 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-tx:5.0.10.RELEASE
+2018-10-25 19:43:33,406 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-aspects:5.0.10.RELEASE
+2018-10-25 19:43:33,407 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for mysql:mysql-connector-java:5.1.47
+2018-10-25 19:43:33,422 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-aop:2.0.6.RELEASE
+2018-10-25 19:43:33,423 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-jdbc:2.0.6.RELEASE
+2018-10-25 19:43:33,425 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-jdbc:5.0.10.RELEASE
+2018-10-25 19:43:33,427 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.data:spring-data-jpa:2.0.11.RELEASE
+2018-10-25 19:43:33,428 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.data:spring-data-commons:2.0.11.RELEASE
+2018-10-25 19:43:33,430 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-orm:5.0.10.RELEASE
+2018-10-25 19:43:33,431 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-tx:5.0.10.RELEASE
+2018-10-25 19:43:33,432 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-aspects:5.0.10.RELEASE
+2018-10-25 19:43:33,433 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for mysql:mysql-connector-java:5.1.47
+2018-10-25 19:43:33,434 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-jdbc:2.0.6.RELEASE
+2018-10-25 19:43:33,436 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-jdbc:5.0.10.RELEASE
+2018-10-25 19:43:33,437 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.data:spring-data-jpa:2.0.11.RELEASE
+2018-10-25 19:43:33,438 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.data:spring-data-commons:2.0.11.RELEASE
+2018-10-25 19:43:33,439 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-orm:5.0.10.RELEASE
+2018-10-25 19:43:33,439 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-tx:5.0.10.RELEASE
+2018-10-25 19:43:33,441 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-aspects:5.0.10.RELEASE
+2018-10-25 19:43:33,442 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for mysql:mysql-connector-java:5.1.47
+2018-10-25 19:43:33,583 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-25 19:43:33,583 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-25 19:43:33,583 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-25 19:43:33,586 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-25 19:43:33,586 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/juan/eclipse-workspace/spring-boot-data-jpa/src/test/resources
+2018-10-25 19:44:57,816 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-25 19:44:57,819 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-25 19:44:57,819 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-25 19:44:57,821 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-25 19:44:57,822 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/juan/eclipse-workspace/spring-boot-data-jpa/src/test/resources
+2018-10-25 19:45:34,937 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-25 19:45:34,938 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-25 19:45:34,939 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-25 19:45:34,941 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-25 19:45:34,941 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/juan/eclipse-workspace/spring-boot-data-jpa/src/test/resources
+2018-10-25 19:49:45,592 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-25 19:49:45,593 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-25 19:49:45,594 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-25 19:49:45,597 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-25 19:49:45,597 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/juan/eclipse-workspace/spring-boot-data-jpa/src/test/resources
+2018-10-25 19:55:17,573 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-25 19:55:17,574 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-25 19:55:17,574 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-25 19:55:17,579 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-25 19:55:17,580 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/juan/eclipse-workspace/spring-boot-data-jpa/src/test/resources
+2018-10-25 19:57:41,787 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-25 19:57:41,787 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-25 19:57:41,788 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-25 19:57:41,790 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-25 19:57:41,791 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/juan/eclipse-workspace/spring-boot-data-jpa/src/test/resources
+2018-10-25 20:03:08,385 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-25 20:03:08,386 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-25 20:03:08,387 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-25 20:03:08,389 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-25 20:03:08,389 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/juan/eclipse-workspace/spring-boot-data-jpa/src/test/resources
+2018-10-25 20:04:08,270 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-25 20:04:08,271 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-25 20:04:08,271 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-25 20:04:08,274 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-25 20:04:08,274 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/juan/eclipse-workspace/spring-boot-data-jpa/src/test/resources
+2018-10-25 20:07:17,645 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-25 20:07:17,646 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-25 20:07:17,646 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-25 20:07:17,648 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-25 20:07:17,649 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/juan/eclipse-workspace/spring-boot-data-jpa/src/test/resources
+2018-10-25 20:07:40,765 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-25 20:07:40,765 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-25 20:07:40,766 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-25 20:07:40,768 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-25 20:07:40,768 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/juan/eclipse-workspace/spring-boot-data-jpa/src/test/resources
+2018-10-25 20:07:59,165 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-25 20:07:59,165 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-25 20:07:59,166 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-25 20:07:59,168 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-25 20:07:59,168 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/juan/eclipse-workspace/spring-boot-data-jpa/src/test/resources
+2018-10-25 20:08:34,401 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-25 20:08:34,401 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-25 20:08:34,402 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-25 20:08:34,404 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-25 20:08:34,404 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/juan/eclipse-workspace/spring-boot-data-jpa/src/test/resources
+2018-10-25 20:12:15,240 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-25 20:12:15,241 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-25 20:12:15,241 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-25 20:12:15,244 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-25 20:12:15,244 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/juan/eclipse-workspace/spring-boot-data-jpa/src/test/resources
+2018-10-25 20:12:38,428 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-25 20:12:38,428 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-25 20:12:38,428 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-25 20:12:38,430 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-25 20:12:38,430 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/juan/eclipse-workspace/spring-boot-data-jpa/src/test/resources
+2018-10-25 20:14:21,168 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-25 20:14:21,168 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-25 20:14:21,169 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-25 20:14:21,171 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-25 20:14:21,171 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/juan/eclipse-workspace/spring-boot-data-jpa/src/test/resources
+2018-10-25 20:15:55,873 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-25 20:15:55,874 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-25 20:15:55,874 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-25 20:15:55,875 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-25 20:15:55,876 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/juan/eclipse-workspace/spring-boot-data-jpa/src/test/resources
+2018-10-25 20:21:09,931 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-25 20:21:09,931 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-25 20:21:09,932 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-25 20:21:09,935 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-25 20:21:09,935 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/juan/eclipse-workspace/spring-boot-data-jpa/src/test/resources
+2018-10-25 20:22:51,466 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-25 20:22:51,466 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-25 20:22:51,467 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-25 20:22:51,469 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-25 20:22:51,469 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/juan/eclipse-workspace/spring-boot-data-jpa/src/test/resources
+2018-10-25 20:23:50,614 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-25 20:23:50,615 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-25 20:23:50,615 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-25 20:23:50,617 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-25 20:23:50,617 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/juan/eclipse-workspace/spring-boot-data-jpa/src/test/resources
+2018-10-25 21:25:46,750 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-25 21:25:46,750 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-25 21:25:46,750 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-25 21:25:46,752 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-25 21:25:46,752 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/juan/eclipse-workspace/spring-boot-data-jpa/src/test/resources
+2018-10-25 21:26:22,670 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-25 21:26:22,670 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-25 21:26:22,671 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-25 21:26:22,672 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-25 21:26:22,673 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/juan/eclipse-workspace/spring-boot-data-jpa/src/test/resources
+2018-10-25 21:31:44,578 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-25 21:31:44,578 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-25 21:31:44,579 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-25 21:31:44,580 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-25 21:31:44,581 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/juan/eclipse-workspace/spring-boot-data-jpa/src/test/resources
+2018-10-25 22:00:00,050 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-25 22:00:00,050 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-25 22:00:00,051 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-25 22:00:00,052 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-25 22:00:00,052 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/juan/eclipse-workspace/spring-boot-data-jpa/src/test/resources
+2018-10-25 22:14:57,853 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-25 22:14:57,854 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-25 22:14:57,854 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-25 22:14:57,856 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-25 22:14:57,856 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/juan/eclipse-workspace/spring-boot-data-jpa/src/test/resources
+2018-10-25 22:16:31,012 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-25 22:16:31,013 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-25 22:16:31,013 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-25 22:16:31,015 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-25 22:16:31,015 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/juan/eclipse-workspace/spring-boot-data-jpa/src/test/resources
+2018-10-25 22:17:18,514 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-25 22:17:18,515 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-25 22:17:18,515 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-25 22:17:18,517 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-25 22:17:18,517 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/juan/eclipse-workspace/spring-boot-data-jpa/src/test/resources
+2018-10-25 22:17:36,578 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-25 22:17:36,578 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-25 22:17:36,578 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-25 22:17:36,580 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-25 22:17:36,580 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/juan/eclipse-workspace/spring-boot-data-jpa/src/test/resources
+2018-10-25 22:17:46,338 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-25 22:17:46,338 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-25 22:17:46,339 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-25 22:17:46,340 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-25 22:17:46,340 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/juan/eclipse-workspace/spring-boot-data-jpa/src/test/resources
+2018-10-25 22:18:26,269 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-25 22:18:26,269 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-25 22:18:26,270 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-25 22:18:26,272 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-25 22:18:26,272 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/juan/eclipse-workspace/spring-boot-data-jpa/src/test/resources
+2018-10-25 22:18:37,497 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-25 22:18:37,498 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-25 22:18:37,498 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-25 22:18:37,500 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-25 22:18:37,501 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/juan/eclipse-workspace/spring-boot-data-jpa/src/test/resources
