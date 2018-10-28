@@ -11,7 +11,6 @@
 <fullyQualifiedTypeName name="javax.persistence.Column"/>
 <fullyQualifiedTypeName name="javax.persistence.TemporalType"/>
 <fullyQualifiedTypeName name="javax.persistence.Temporal"/>
-<fullyQualifiedTypeName name="com.bolsadeideas.springboot.app.models.entity.Cliente"/>
 <fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
 <fullyQualifiedTypeName name="javax.persistence.EntityManager"/>
 <fullyQualifiedTypeName name="javax.transaction.Transactional"/>
@@ -23,4 +22,7 @@
 <fullyQualifiedTypeName name="com.bolsadeideas.springboot.app.models.dao.IClienteDao"/>
 <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
 <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Qualifier"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="com.bolsadeideas.springboot.app.models.entity.Cliente"/>
+<fullyQualifiedTypeName name="javax.persistence.PrePersist"/>
 </qualifiedTypeNameHistroy>
