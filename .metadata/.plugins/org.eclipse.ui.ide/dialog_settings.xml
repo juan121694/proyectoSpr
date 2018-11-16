@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="/home/juan/Escritorio/AdminProyectos/Project-Managment"/>
+		<item value="/home/juan/Descargas/SistemaColaborativo-master"/>
 		<item value="/home/juan/Documentos/Ingenieria2/Blue-Rabbit"/>
 	</list>
 	<section name="ExternalProjectImportWizard">
